@@ -59,3 +59,6 @@ console.log(transportes);
 for (let index = 0; index < transportesArray.length; index++) {
     console.log(transportesArray[index]);
 }
+
+//object pool
+//mediador
